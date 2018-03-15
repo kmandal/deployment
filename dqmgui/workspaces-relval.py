@@ -86,3 +86,4 @@ server.workspace('DQMContent', 47, 'Monte Carlo', 'MC PFlow' , '^ParticleFlow/',
                  'MCLayouts/PFlow/03 - Jet Pt Resolution distribution - Barrel',
                  'MCLayouts/PFlow/04 - Jet Pt Resolution distribution - Endcap',
                 )
+server.workspace('DQMContent', 48, 'Monte Carlo', 'MC HGcal' , '^HGcal/', 'MCLayouts/HGcal')
